@@ -14,6 +14,6 @@
             "Princeks2000\\Kaise\\":"src/"
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }
